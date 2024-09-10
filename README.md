@@ -12,10 +12,4 @@ To run this app, you'll need Python 3.8 or later and the following packages:
 - `scikit-learn==1.3.2`
 - `numpy==1.26.4`
 
-## Setup Instructions
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/your-username/road-collision-severity-predictor.git
-   cd road-collision-severity-predictor
